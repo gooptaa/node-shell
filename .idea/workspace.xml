@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1083c50d-67a8-4aa7-8361-bb91bc59145d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bash.js" afterPath="$PROJECT_DIR$/bash.js" />
-    </list>
+    <list default="true" id="1083c50d-67a8-4aa7-8361-bb91bc59145d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -109,15 +107,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488813371255</updated>
-      <workItem from="1488813372808" duration="2967000" />
+      <workItem from="1488813372808" duration="3045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2967000" />
+    <option name="totallyTimeSpent" value="3045000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="23" width="916" height="728" extended-state="0" />
+    <frame x="364" y="23" width="916" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34934497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
